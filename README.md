@@ -55,5 +55,6 @@ Step 13:
 Return the list of completed processes along with their turnaround and waiting 
 times.
 
+The Output will be like:
 ![image](https://user-images.githubusercontent.com/94137414/209414627-729836be-d7d8-4b5c-913f-36a858d4dbfa.png)
 
