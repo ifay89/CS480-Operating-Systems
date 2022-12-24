@@ -117,7 +117,6 @@ int main()
    printf("\n Process No. Arrival Time Burst Time Completion Time Turn Around Time Waiting Time\n");
 
    for(i=0; i<n; i++ )
-   printf("\n\t%d\t\t%d\t\t%d\t\t%d\t\t%d\t\t%d",p[i].id, p[i].at,
-   p[i].bt, p[i].ct, p[i].tat, p[i].wt);
+   printf("\n\t%d\t\t%d\t\t%d\t\t%d\t\t%d\t\t%d",p[i].id, p[i].at, p[i].bt, p[i].ct, p[i].tat, p[i].wt);
    return 0;
 }
