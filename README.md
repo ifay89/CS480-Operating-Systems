@@ -21,6 +21,9 @@ basically, two types of SJF methods
 
 
 
+
+
+
 Steps:
 
 Step 1: 
