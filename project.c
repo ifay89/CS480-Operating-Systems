@@ -2,13 +2,13 @@
 #include<limits.h>
 struct process
 {
-int id;
-int at;
-int bt;
-int ct;
-int tat;
-int wt;
-int key;
+  int id;
+  int at;
+  int bt;
+  int ct;
+  int tat;
+  int wt;
+  int key;
 };
 void sort(int p[2][20], int size)
 {
