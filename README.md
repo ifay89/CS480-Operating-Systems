@@ -1,5 +1,5 @@
 # CS480-Operating-Systems
-This is my small project for course CS480
+This is my small project for course CS480.
 The task in this project is write a C code to implement SJF for any number of processes and useing liunx command to display and run the code.
 This some information about SJF:
 
